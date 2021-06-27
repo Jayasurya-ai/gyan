@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484849612850",
+    "project_id": "gyan-27134",
+    "storage_bucket": "gyan-27134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484849612850:android:a3ec6f6989a0d14851242b",
+        "android_client_info": {
+          "package_name": "com.viba.gyan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484849612850-bk5e70l241jadtpsdii1fvqeraqt26f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdKqAf8583sJrAlcH4cbnnmN-emk5wKmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484849612850-bk5e70l241jadtpsdii1fvqeraqt26f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
